@@ -44,10 +44,13 @@ to participate in this project.
 
 ![logo](resources/datasets.png){: .center-image }
 
-* [Johnston Atoll (Kongsberg EM302)](https://drive.google.com/drive/folders/1nXSFafWyGbLIKcgV8fV8Wdx1lkbhT85O?usp=sharing)
-* [Shallow Survey 2015 (Reson 7125)](https://drive.google.com/drive/folders/1irpWFcf9n3-f3uqM-aYhGwmSwHoGJ5B4?usp=sharing)
-* [Kwinte reference area (Kongsberg EM2040)](https://drive.google.com/drive/folders/1hlAeiOeH7tSVDXUFNKk0SOAj_sOhXRra?usp=sharing)
-* Carré Reneard reference area (Kongsberg EM710, EM3002)
+* Johnston Atoll: [Kongsberg EM302](https://drive.google.com/drive/folders/1nXSFafWyGbLIKcgV8fV8Wdx1lkbhT85O?usp=sharing)
+* Shallow Survey 2015: [Reson 7125](https://drive.google.com/drive/folders/1irpWFcf9n3-f3uqM-aYhGwmSwHoGJ5B4?usp=sharing)
+* Kwinte reference area: [Kongsberg EM2040](https://drive.google.com/drive/folders/1hlAeiOeH7tSVDXUFNKk0SOAj_sOhXRra?usp=sharing)
+* Carré Reneard reference area: 
+  * [Kongsberg EM710](https://drive.google.com/drive/folders/1Cyfw11qCCCR9WN_SDOmI2HZbbBlUg_Tr?usp=sharing) *(license: [CC-BY-NC-SA-4.0](resources/LICENSE_Shom_DATA.txt))*
+  * [Kongsberg EM2040C](https://drive.google.com/drive/folders/1jZmQmKzLh3e45WP6ZRiFp1tLEgFVSwEL?usp=sharing) *(license: [CC-BY-NC-SA-4.0](resources/LICENSE_Shom_DATA.txt))*
+  * [Kongsberg EM3002](https://drive.google.com/drive/folders/1VYbJwdo7bfPU5-bW7a6n9EZZklw1xxwx?usp=sharing) *(license: [CC-BY-NC-SA-4.0](resources/LICENSE_Shom_DATA.txt))*
 
 *** 
 
@@ -83,18 +86,18 @@ to participate in this project.
 
 #### GeoHab 2019
 
-* Presentation: *coming soon*
+* Presentation: [*BSWG meeting*](http://dx.doi.org/10.13140/RG.2.2.13881.21606)
 
 ***
 
 ### Project Facilitators
 
-* [Margaret Dolan (NGU)](mailto:Margaret.Dolan@ngu.no)
-* [Julien Le Deunf (SHOM)](mailto:julian.le.deunf@shom.fr)
 * [Mashkoor Malik (NOAA OER)](mailto:mashkoor.malik@noaa.gov)
 * [Giuseppe Masetti (UNH CCOM/JHC)](mailto:gmasetti@ccom.unh.edu)
-* [Marc Roche (FOD Economie)](mailto:Marc.Roche@economie.fgov.be)
 * [Alexandre Schimel (NIWA)](mailto:Alexandre.Schimel@niwa.co.nz)
+* [Marc Roche (FOD Economie)](mailto:Marc.Roche@economie.fgov.be)
+* [Margaret Dolan (NGU)](mailto:Margaret.Dolan@ngu.no)
+* [Julien Le Deunf (SHOM)](mailto:julian.le.deunf@shom.fr)
 
 ![logo](resources/facilitators.png){: .center-image }
 
