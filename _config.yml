@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
 title: BSIP
-description: Baskscatter Software Intercomparison Project
+description: Backscatter Software Intercomparison Project
 plugins:
   - jekyll-seo-tag
