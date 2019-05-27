@@ -7,6 +7,8 @@ the [Backscatter Working Group](http://geohab.org/bswg/): established under ausp
 of [GEOHAB](http://geohab.org/) and consisting of more than 300 researchers 
 representing academia, governments and industry.
 
+![logo](resources/geohab.png){: .center-image }
+
 ***
 
 ### Rationale
